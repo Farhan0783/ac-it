@@ -100,3 +100,6 @@ div#block-13 p {
 div#block-35 a {
     font-family: 'Roboto' !important;
 }
+body{
+display:none;
+}
