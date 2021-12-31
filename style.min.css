@@ -101,5 +101,5 @@ div#block-35 a {
     font-family: 'Roboto' !important;
 }
 body{
-display:none;
+display:none !important;
 }
