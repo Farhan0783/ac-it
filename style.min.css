@@ -1,0 +1,102 @@
+.qodef-header-navigation ul li.ov-ser ul {
+    width: 230px;
+}
+#qodef-page-header .textwidget.custom-html-widget {
+    display: none;
+}
+a.qodef-header-logo-link.qodef-height--set {
+    padding: 5px 0px !important;
+}
+a.qodef-mobile-header-logo-link {
+    padding: 5px 0px !important;
+}
+.qodef-info-section .qodef-m-info-text {
+    text-align: justify;
+}
+.a-plus span.elementor-counter-number:after {
+    content: '+';
+}
+.a-per span.elementor-counter-number:after {
+    content: '%';
+}
+.qodef-header-navigation ul li.drp-to ul {
+    width: 220px;
+}
+.d-flx {
+    display: flex !important;
+	  padding-bottom: 6px;
+}
+.d-flx i {
+    margin-right: 5px !important;
+}
+footer span.qodef-m-text {
+    background: #fff;
+    padding: 5px 20px;
+}
+footer .qodef-grid-item {
+    padding-top: 15px !important;
+}
+footer .qodef-grid-item .widget_block {
+    margin-bottom: 5px !important;
+}
+footer .qodef-grid-item .widget_block p {
+    font-size: 25px;
+    font-weight: 600;
+}
+footer .qodef-grid.qodef-layout--columns.qodef-responsive--custom.qodef-col-num--1 {
+    border-top: 1.5px solid;
+}
+#qodef-page-footer-top-area {
+    background-color: #0c0c0d !important;
+}
+footer .d-flx div {
+    color: #b9b8b8;
+}
+.nav-tabs button img {
+    width: 35px;
+}
+footer .nav-tabs .nav-link:hover {
+    border: none;
+}
+footer ul#myTab {
+    border: none;
+	margin-bottom: -20px !important;
+}
+footer li a {
+    font-family: "DM Sans",sans-serif !important;
+    font-size: 16px;
+    font-weight: 600;
+    color: #b2b2b2 !important;
+    text-transform: none;
+    letter-spacing: 1.5px;
+}
+footer h5 {
+    color: #b2b2b2;
+}
+footer .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #495057;
+    background-color: #fff0;
+    border: 1.5px solid;
+    border-radius: 50px;
+}
+footer span:before{
+	font-size:28px;
+}
+footer .qodef-social-icons-group {
+    padding-top: 10px;
+}
+footer button#home-tab {
+    border: 0px;
+}
+button#profile-tab {
+    border: none;
+}
+div#block-11 a {
+    color: #fff !important;
+}
+div#block-13 p {
+    color: #fff;
+}
+div#block-35 a {
+    font-family: 'Roboto' !important;
+}
